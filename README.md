@@ -1,5 +1,7 @@
 # Profile
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SonyaMoisset/ProfileCard_REACT.svg)](https://greenkeeper.io/)
+
 ## A React web application that renders a Profile Card
 
 To see the project:
